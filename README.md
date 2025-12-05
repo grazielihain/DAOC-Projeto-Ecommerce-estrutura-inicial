@@ -96,7 +96,7 @@ A API é simulada utilizando **JSON Server**.
 
 3 Rodar o JSON Server
 
-    npx json-server --watch db.json --port 3000
+    npx json-server --watch db.json --port 3001
 
 4️ Rodar o projeto React
 
