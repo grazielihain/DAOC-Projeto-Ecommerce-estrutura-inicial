@@ -88,7 +88,7 @@ A API é simulada utilizando **JSON Server**.
 ## Como Rodar o Projeto
 
 1 Clonar o repositório
-    git clone https://github.com/grazielihain/DAOC
+    git clone https://github.com/grazielihain/DAOC-Projeto-Ecommerce-estrutura-inicial
 
 2 Instalar as dependências
 
